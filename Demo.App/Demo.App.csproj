@@ -16,7 +16,6 @@
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
-    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
@@ -127,7 +126,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Xamarin.ArthurHub.Android-Image-Cropper\Xamarin.ArthurHub.Android-Image-Cropper.csproj">
-      <Project>{a89ad2d5-7334-4647-aa05-4b469ab2eef3}</Project>
+      <Project>{A89AD2D5-7334-4647-AA05-4B469AB2EEF3}</Project>
       <Name>Xamarin.ArthurHub.Android-Image-Cropper</Name>
     </ProjectReference>
   </ItemGroup>

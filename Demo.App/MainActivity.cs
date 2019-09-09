@@ -62,6 +62,7 @@
         /// <param name="data">Intent data.</param>
         protected override void OnActivityResult(int requestCode, Result resultCode, Intent data)
         {
+            
             if (requestCode == CropImage.CropImageActivityRequestCode)
             {
                 CropImage.ActivityResult result = CropImage.GetActivityResult(data);
